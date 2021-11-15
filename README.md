@@ -5,6 +5,20 @@ In the past 5 years I worked on various website and project, mainly with React, 
 
 Right now I am looking forward the great place where I can dedicate my self.
 
+Technologies: 
+ - HTML
+ - CSS
+ - Javascript
+ - Typescript
+ - React
+ - Flux(Redux)
+ - Next.js
+ - Gatsby
+ - GraphQL
+ - Git
+ - Docker
+ 
+
 <div>
   <h4> GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ReactMad&show_icons=true&theme=vue-dark&count_private=true" />
