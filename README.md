@@ -25,9 +25,9 @@ Technologies:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapronov1021&layout=compact&theme=radical"" />
 </div>
 
-<div>
+
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ReactMad&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</div>
+
                                                                                                                       
 <!---
 ReactMad/ReactMad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
