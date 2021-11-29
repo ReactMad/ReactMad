@@ -22,7 +22,7 @@ Technologies:
 <div>
   <h4> GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ReactMad&show_icons=true&theme=vue-dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapronov1021&layout=compact&theme=vue-dark"" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapronov1021&layout=compact&theme=radical"" />
 </div>
 
 <!---
@@ -30,6 +30,6 @@ ReactMad/ReactMad is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReactMad&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReactMad&count_private=true&show_icons=true)
 
 
