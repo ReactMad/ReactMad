@@ -29,3 +29,7 @@ Technologies:
 ReactMad/ReactMad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+                                                                                                                      
+<span align="right">
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ReactMad&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+</span>
