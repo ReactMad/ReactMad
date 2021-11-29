@@ -19,6 +19,8 @@ Technologies:
  - Docker
  
 
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ReactMad&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+
 <div>
   <h4> GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ReactMad&show_icons=true&theme=vue-dark&count_private=true" />
@@ -26,7 +28,6 @@ Technologies:
 </div>
 
 
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ReactMad&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 
                                                                                                                       
 <!---
