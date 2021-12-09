@@ -13,6 +13,9 @@ Technologies:
  - React
  - Flux(Redux)
  - Next.js
+ - Node.js
+ - Express
+ - MongoDB
  - Gatsby
  - GraphQL
  - Git
