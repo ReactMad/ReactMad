@@ -1,7 +1,7 @@
  Hi, I’m Uros 👋
 
 I'm a Software Developer from Serbia, who has hands-one experience with client facing applications development.
-In the past 5 years I worked on various website and project, mainly with React, Next.js, Gatsby, Prismic, Strapi, GraphQL and Angular.
+In the past 5 years I worked on various website and project, mainly with React, Next.js, Gatsby, Prismic, Strapi, GraphQL, Node.js/Express, MongoDB and Angular.
 
 Right now I am looking forward the great place where I can dedicate my self.
 
