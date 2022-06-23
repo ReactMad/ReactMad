@@ -56,7 +56,7 @@ Technologies:
  -->
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ReactMad&show_icons=true&theme=vue-dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapronov1021&layout=compact&theme=radical"" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReactMad&layout=compact&theme=radical"" />
 </div>
 
 
